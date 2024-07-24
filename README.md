@@ -13,7 +13,7 @@ Contact
 
 ## Demo
 
-You can visit the live site at: Preethipa's Portfolio (replace with your actual link)
+You can visit the live site at:  https://preethipa19.github.io/PORTFOLIO/
 
 ## Features
 
